@@ -35,7 +35,7 @@
       height: fit-content;
     }
     section {
-      margin: 0 5%;
+      margin: 0.5%;
     }
     .section__pic-container {
       width: 275px;
@@ -89,6 +89,7 @@
     .section__pic-container {
       width: auto;
       height: 46vw;
+      display: flex;
       justify-content: center;
     }
     .section__text__p2 {
